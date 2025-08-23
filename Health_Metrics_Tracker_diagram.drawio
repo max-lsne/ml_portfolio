@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1" pages="2">
   <diagram name="Page-1" id="Jcsqj5YuyacNtnGOE9oZ">
-    <mxGraphModel dx="1501" dy="2001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1584" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,27 +36,6 @@
         </mxCell>
         <mxCell id="Atscytx341yWLrMN0zOO-16" value="invoke" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="78" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Atscytx341yWLrMN0zOO-20" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Atscytx341yWLrMN0zOO-1" target="Atscytx341yWLrMN0zOO-11" edge="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="236" y="200" as="sourcePoint" />
-            <mxPoint x="200" y="40" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Atscytx341yWLrMN0zOO-22" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Atscytx341yWLrMN0zOO-8" target="Atscytx341yWLrMN0zOO-11" edge="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="140" y="60" as="sourcePoint" />
-            <mxPoint x="170" y="80" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Atscytx341yWLrMN0zOO-23" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.583;exitY=-0.067;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Atscytx341yWLrMN0zOO-10" target="Atscytx341yWLrMN0zOO-11" edge="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="200" y="190" as="sourcePoint" />
-            <mxPoint x="295" y="263" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Atscytx341yWLrMN0zOO-25" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#232f3e&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;i style=&quot;&quot;&gt;REST APIs&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="120" y="106" width="100" height="20" as="geometry" />
@@ -103,7 +82,7 @@
         <mxCell id="Atscytx341yWLrMN0zOO-45" value="&lt;div&gt;&lt;font color=&quot;#232f3e&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;AWS EventBridge&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="719" y="308" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Atscytx341yWLrMN0zOO-46" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; AWS Glue" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#7F00FF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=1;labelBackgroundColor=#ffffff;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" parent="1" vertex="1">
+        <mxCell id="Atscytx341yWLrMN0zOO-46" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; AWS Glue Workflow" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#7F00FF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=1;labelBackgroundColor=#ffffff;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" parent="1" vertex="1">
           <mxGeometry x="341" y="220" width="310" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Atscytx341yWLrMN0zOO-51" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.glue;" parent="Atscytx341yWLrMN0zOO-46" vertex="1">
@@ -140,7 +119,7 @@
           <mxGeometry x="160" y="207" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9oQzo31mD77ZLmYwTX_2-6" value="Morning email" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
-          <mxGeometry x="90" y="260.75" width="50" height="29.25" as="geometry" />
+          <mxGeometry x="90" y="253.75" width="50" height="29.25" as="geometry" />
         </mxCell>
         <mxCell id="9oQzo31mD77ZLmYwTX_2-7" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.athena;" vertex="1" parent="1">
           <mxGeometry x="179" y="360" width="70" height="70" as="geometry" />
@@ -168,6 +147,36 @@
         </mxCell>
         <mxCell id="9oQzo31mD77ZLmYwTX_2-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;Health Metrics Tracker&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="249" y="-32" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9oQzo31mD77ZLmYwTX_2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Atscytx341yWLrMN0zOO-11" target="Atscytx341yWLrMN0zOO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9oQzo31mD77ZLmYwTX_2-39" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;startArrow=classic;endSize=8;startSize=8;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Atscytx341yWLrMN0zOO-1" target="Atscytx341yWLrMN0zOO-11">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="150" y="33" as="sourcePoint" />
+            <mxPoint x="200" y="33.19" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9oQzo31mD77ZLmYwTX_2-40" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;startArrow=classic;endSize=8;startSize=8;rounded=0;exitX=0.635;exitY=-0.056;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Atscytx341yWLrMN0zOO-10" target="Atscytx341yWLrMN0zOO-11">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="165" y="156" as="sourcePoint" />
+            <mxPoint x="260" y="208" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9oQzo31mD77ZLmYwTX_2-41" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;startArrow=classic;endSize=8;startSize=8;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Atscytx341yWLrMN0zOO-8">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="105" y="106" as="sourcePoint" />
+            <mxPoint x="200" y="106" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9oQzo31mD77ZLmYwTX_2-42" value="AWS API&amp;nbsp;&lt;div&gt;Call&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Event&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="166" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9oQzo31mD77ZLmYwTX_2-44" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#232f3e&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;i style=&quot;&quot;&gt;Maxence Laisne&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="719" y="460" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
